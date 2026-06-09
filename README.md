@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Siphin+Samson+%F0%9F%91%8B;B.Tech+CS+%26+Business+Systems+Student;AI+%7C+IoT+%7C+Web+%7C+Data+Analytics;Founder+%7C+Innovator+%7C+Problem+Solver)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=siphin&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/siphin)
+[![Profile Views](https://komarev.com/ghpvc/?username=siphin7&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/siphin7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-siphin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/siphin)
 [![Gmail](https://img.shields.io/badge/Gmail-siphinsamson7%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:siphinsamson7@gmail.com)
 
@@ -90,11 +90,11 @@ print(me.motto())
 
 <div align="center">
 
-<a href="https://github.com/siphin">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=siphin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/siphin7">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=siphin7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/siphin">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siphin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/siphin7">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siphin7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -105,7 +105,7 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=siphin&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=siphin7&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -115,7 +115,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Siphin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siphin&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/siphin)
+[![Siphin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siphin7&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/siphin7)
 
 </div>
 
@@ -125,7 +125,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=siphin&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/siphin)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=siphin7&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/siphin7)
 
 </div>
 
@@ -191,11 +191,11 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| [🤖 **AI Voice Assistant**](https://github.com/siphin) | Python · OpenAI GPT API · Automation | AI-powered voice assistant with conversational capabilities; GPT API integration for natural language understanding |
-| [💸 **Bill Splitter App**](https://github.com/siphin) | Python / Java · UI Design | Smart expense-sharing application with automated calculation and intuitive user management |
-| [💧 **Water Conservation & Reward Platform**](https://github.com/siphin) | Web Dev · Python · Data Analytics | Website model promoting water conservation through reward mechanisms and community engagement |
-| [🚗 **ESP32 Autonomous Smart Vehicle**](https://github.com/siphin) | ESP32 · C++ · Embedded Systems | Obstacle-detecting autonomous vehicle using ESP32 microcontroller and real-time sensor data |
-| [🤚 **Gesture-Controlled Drone**](https://github.com/siphin) | IoT · Embedded Systems · Sensors | Drone controlled via gesture recognition technology — hardware-software integration project |
+| [🤖 **AI Voice Assistant**](https://github.com/siphin7) | Python · OpenAI GPT API · Automation | AI-powered voice assistant with conversational capabilities; GPT API integration for natural language understanding |
+| [💸 **Bill Splitter App**](https://github.com/siphin7) | Python / Java · UI Design | Smart expense-sharing application with automated calculation and intuitive user management |
+| [💧 **Water Conservation & Reward Platform**](https://github.com/siphin7) | Web Dev · Python · Data Analytics | Website model promoting water conservation through reward mechanisms and community engagement |
+| [🚗 **ESP32 Autonomous Smart Vehicle**](https://github.com/siphin7) | ESP32 · C++ · Embedded Systems | Obstacle-detecting autonomous vehicle using ESP32 microcontroller and real-time sensor data |
+| [🤚 **Gesture-Controlled Drone**](https://github.com/siphin7) | IoT · Embedded Systems · Sensors | Drone controlled via gesture recognition technology — hardware-software integration project |
 
 </div>
 
