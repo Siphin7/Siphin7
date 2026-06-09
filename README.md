@@ -90,10 +90,10 @@ print(me.motto())
 <div align="center">
 
 <a href="https://github.com/siphin7">
-  <img height="170" src="github-readme-stats-six-gamma-95.vercel.app?username=siphin7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="170" src="https://github-readme-stats-six-gamma-95.vercel.app/api?username=siphin7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
 <a href="https://github.com/siphin7">
-  <img height="170" src="github-readme-stats-six-gamma-95.vercel.app?username=siphin7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="170" src="https://github-readme-stats-six-gamma-95.vercel.app/api/top-langs/?username=siphin7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -136,7 +136,7 @@ print(me.motto())
 <summary><strong>🛒 Founder & Operator — E-Commerce Business</strong> &nbsp;|&nbsp; 2023 – 2024 &nbsp;|&nbsp; Abu Dhabi, U.A.E</summary>
 <br/>
 
-> ![Business Analysis](https://img.shields.io/badge/Business%20Analysis-0052CC?style=flat-square) ![Market Research](https://img.shields.io/badge/Market%20Research-38BDAE?style=flat-square) ![Data%20Analytics](https://img.shields.io/badge/Data%20Analytics-BF91F3?style=flat-square) ![Agile](https://img.shields.io/badge/Agile-70A5FD?style=flat-square)
+> ![Business Analysis](https://img.shields.io/badge/Business%20Analysis-0052CC?style=flat-square) ![Market Research](https://img.shields.io/badge/Market%20Research-38BDAE?style=flat-square) ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-BF91F3?style=flat-square) ![Agile](https://img.shields.io/badge/Agile-70A5FD?style=flat-square)
 
 - Managed end-to-end operations — product research, sourcing, marketing, customer support, and sales tracking across the full business lifecycle.
 - Conducted competitor analysis and market research to identify growth opportunities and improve overall business performance.
@@ -146,7 +146,7 @@ print(me.motto())
 </details>
 
 <details>
-<summary><strong>📣 Founder — Social Media Marketing Agency,Nilav Visuals</strong> &nbsp;|&nbsp; Abu Dhabi, U.A.E</summary>
+<summary><strong>📣 Founder — Social Media Marketing Agency, Nilav Visuals</strong> &nbsp;|&nbsp; Abu Dhabi, U.A.E</summary>
 <br/>
 
 > ![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-E34F26?style=flat-square) ![Content Strategy](https://img.shields.io/badge/Content%20Strategy-38BDAE?style=flat-square) ![Analytics](https://img.shields.io/badge/Analytics-BF91F3?style=flat-square) ![Client Management](https://img.shields.io/badge/Client%20Management-70A5FD?style=flat-square)
@@ -164,7 +164,7 @@ print(me.motto())
 
 > ![Leadership](https://img.shields.io/badge/Leadership-70A5FD?style=flat-square) ![Innovation](https://img.shields.io/badge/Innovation-BF91F3?style=flat-square) ![Project Management](https://img.shields.io/badge/Project%20Management-38BDAE?style=flat-square)
 
-- Led a multidisciplinary team in developing an innovative technology solution under time-constrained hackathon conditions.
+- Co-led a multidisciplinary team in developing an innovative technology solution under time-constrained hackathon conditions.
 - Coordinated project planning, execution, presentations, and stakeholder engagement throughout the competition.
 - Managed task allocation, team collaboration, and final delivery to maximise team performance.
 
@@ -218,7 +218,7 @@ print(me.motto())
 | 💹 | **Bloomberg Market Concepts (BMC)** | Financial markets, economics, and investment fundamentals |
 | 🧮 | **MATLAB Onramp Certificate** | Technical computing and simulation in MATLAB |
 | 🚀 | **E-Commerce Founder** | Built and operated a complete e-commerce business (2023–2024) |
-| 📣 | **Digital Agency Founder** | Founded and managed a social media marketing agency |
+| 📣 | **Nilav Visuals Founder** | Founded and managed a social media marketing agency |
 
 </div>
 
