@@ -63,7 +63,6 @@ print(me.motto())
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Engineering & IoT**
 
@@ -147,7 +146,7 @@ print(me.motto())
 </details>
 
 <details>
-<summary><strong>📣 Founder — Social Media Marketing Agency</strong> &nbsp;|&nbsp; Abu Dhabi, U.A.E</summary>
+<summary><strong>📣 Founder — Social Media Marketing Agency,Nilav Visuals</strong> &nbsp;|&nbsp; Abu Dhabi, U.A.E</summary>
 <br/>
 
 > ![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-E34F26?style=flat-square) ![Content Strategy](https://img.shields.io/badge/Content%20Strategy-38BDAE?style=flat-square) ![Analytics](https://img.shields.io/badge/Analytics-BF91F3?style=flat-square) ![Client Management](https://img.shields.io/badge/Client%20Management-70A5FD?style=flat-square)
@@ -160,7 +159,7 @@ print(me.motto())
 </details>
 
 <details>
-<summary><strong>🏆 Team Lead — Smart India Hackathon (SIH)</strong> &nbsp;|&nbsp; Leadership Experience</summary>
+<summary><strong>🏆 Co-Team Lead — Smart India Hackathon (SIH)</strong> &nbsp;|&nbsp; Leadership Experience</summary>
 <br/>
 
 > ![Leadership](https://img.shields.io/badge/Leadership-70A5FD?style=flat-square) ![Innovation](https://img.shields.io/badge/Innovation-BF91F3?style=flat-square) ![Project Management](https://img.shields.io/badge/Project%20Management-38BDAE?style=flat-square)
@@ -229,9 +228,9 @@ print(me.motto())
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|--------|-------------|------|-------|
-| B.Tech — Computer Science & Business Systems | Christ College of Engineering | 2025 – 2029 (Expected) | CGPA: 7.0 |
+| Degree | Institution | Year |
+|--------|-------------|------|
+| B.Tech — Computer Science & Business Systems | Christ College of Engineering | 2025 – 2029 (Expected) |
 
 </div>
 
