@@ -194,7 +194,6 @@ print(me.motto())
 | [💸 **Bill Splitter App**](https://github.com/siphin7) | Python / Java · UI Design | Smart expense-sharing application with automated calculation and intuitive user management |
 | [💧 **Water Conservation & Reward Platform**](https://github.com/siphin7) | Web Dev · Python · Data Analytics | Website model promoting water conservation through reward mechanisms and community engagement |
 | [🚗 **ESP32 Autonomous Smart Vehicle**](https://github.com/siphin7) | ESP32 · C++ · Embedded Systems | Obstacle-detecting autonomous vehicle using ESP32 microcontroller and real-time sensor data |
-| [🤚 **Gesture-Controlled Drone**](https://github.com/siphin7) | IoT · Embedded Systems · Sensors | Drone controlled via gesture recognition technology — hardware-software integration project |
 
 </div>
 
