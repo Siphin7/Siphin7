@@ -207,7 +207,6 @@ print(me.motto())
 |----|-------------|---------|
 | 🥇 | **Smart India Hackathon (SIH)** | Co-Team Lead — led cross-functional team in national-level innovation competition |
 | 🌟 | **Young Innovators Program (YIP)** | Participant & Team Lead — technology and innovation-focused challenge |
-| 📜 | **PMI Certified Associate in Project Management (CAPM)** | Globally recognised project management certification |
 | 📜 | **PMI Project Management Certificate** | Professional-level PM credential from Project Management Institute |
 | 📊 | **Microsoft Excel Expert Certification** | Advanced Excel proficiency — data analysis & modelling |
 | 📊 | **Microsoft Power BI Certification** | Business intelligence and data visualisation certification |
